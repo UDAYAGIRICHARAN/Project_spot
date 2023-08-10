@@ -1,0 +1,28 @@
+.profile-page {
+  margin-top: 2px;
+  min-height: 100%;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff; /* White text color for dark theme */
+  height: 100vh;
+}
+
+.profile-test {
+  text-align: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #333333; /* Dark gray background color for dark theme */
+  color: #ffffff; /* White text color for dark theme */
+}
+
+.profile-test.edit-mode {
+  /* Add styles for edit mode */
+}
+
+.profile-header {
+  margin-bottom: 10px;
+}
+
+.profile-content {
+  margin-top: -10px;
+}

@@ -1,0 +1,13 @@
+.link_txt {
+    text-decoration: none;
+    color: var(--text-200);
+  }
+  
+  .primary_txt {
+    color: var(--text-100);
+  }
+  
+  .secondary_txt {
+    color: var(--text-200);
+  }
+  

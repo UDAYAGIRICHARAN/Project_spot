@@ -1,0 +1,22 @@
+.profile-page {
+    margin-top: 2px;
+    min-height: 100%;
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/87099228454821167/CD2E6E5AA573E9DC9A6DA6F99FA557DC817CB78B/');
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 100vh;
+     
+  }
+  
+  
+  .profile-header {
+    margin-bottom: 10px; 
+  }
+  
+  .profile-content {
+    margin-top: -10px; 
+  }
+ 
+ 
+

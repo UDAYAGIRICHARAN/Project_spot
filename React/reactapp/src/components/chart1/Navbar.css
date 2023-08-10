@@ -1,0 +1,14 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 11vh;
+    background: rgb(0, 33, 65);
+  }
+  .nav__brand {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+  }

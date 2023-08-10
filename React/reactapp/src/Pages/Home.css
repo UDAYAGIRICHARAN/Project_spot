@@ -1,0 +1,48 @@
+.banner {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  .welcome-message {
+    padding: 20px;
+  }
+  
+  .user-id {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: #f2f2f2;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color:black;
+  }
+  .project-boxes-container {
+    display: flex; /* Use flexbox to align boxes in the same row */
+    gap: 25px;
+    align-items: center;
+     /* Add spacing between boxes */
+  }
+  .project-box {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    margin: 20px;
+    width: 150px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .box-title {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .box-value {
+    font-size: 24px;
+  }
+  
+  h1{
+    padding-bottom: 30px;
+  }
